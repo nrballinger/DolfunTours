@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "name": "DolFun Tours",
+    "tagline": "Dolphin, Manatee & Wildlife Eco Tours",
+    "location": "Melbourne, Florida",
+    "phone": "321-446-0060",
+    "email": "info@dolfuntours.com",
+    "bookingUrl": "https://dolfuntours.com",
+    "facebookUrl": "https://www.facebook.com/dolfuntours",
+    "primaryColor": "#0786b5",
+    "accentColor": "#f6b23a"
+  },
+  "hero": {
+    "eyebrow": "Indian River Lagoon Eco Tours",
+    "headline": "See Wild Dolphins & Manatees Up Close in Melbourne, Florida",
+    "subheadline": "Family-friendly boat tours with a local captain, beautiful wildlife, and unforgettable views on the Indian River Lagoon.",
+    "primaryCta": "Book Your Tour",
+    "secondaryCta": "Call Captain Bob",
+    "image": "https://images.unsplash.com/photo-1607153333879-c174d265f1d2?auto=format&fit=crop&w=1600&q=80"
+  },
+  "trustBar": [
+    "Small Groups",
+    "Family Friendly",
+    "Wildlife Viewing",
+    "Local Captain",
+    "Private Charters"
+  ],
+  "tourCards": [
+    {
+      "title": "Public Dolphin & Wildlife Tour",
+      "price": "$39.99",
+      "detail": "Per person",
+      "features": ["Approx. 2-hour eco tour", "Dolphins, manatees & birds", "Great for families and visitors", "Relaxed sightseeing pace"],
+      "cta": "Book Public Tour"
+    },
+    {
+      "title": "Private Charter",
+      "price": "$299",
+      "detail": "Private group option",
+      "features": ["Your own boat experience", "Perfect for birthdays & family trips", "Custom wildlife sightseeing", "Great for sunset-style cruises"],
+      "cta": "Request Private Charter"
+    }
+  ],
+  "whyChoose": [
+    {
+      "title": "Real Florida Wildlife",
+      "text": "Cruise the Indian River Lagoon and look for dolphins, manatees, pelicans, ospreys, and other coastal wildlife."
+    },
+    {
+      "title": "Easy Family Adventure",
+      "text": "A simple, relaxed experience for kids, parents, grandparents, and out-of-town visitors."
+    },
+    {
+      "title": "Local Knowledge",
+      "text": "Enjoy the river with a captain who knows the water, the wildlife, and the best places to explore."
+    }
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1518877593221-1f28583780b4?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1520629716099-d147346eb224?auto=format&fit=crop&w=1000&q=80"
+  ],
+  "reviews": [
+    {
+      "quote": "Amazing experience on the water. We saw dolphins and had a great time with the family.",
+      "name": "Recent Guest"
+    },
+    {
+      "quote": "Captain Bob made the tour fun, easy, and memorable. Highly recommend for anyone visiting Melbourne.",
+      "name": "Tour Guest"
+    },
+    {
+      "quote": "Beautiful views, relaxed ride, and lots of wildlife. Perfect Florida day.",
+      "name": "Happy Customer"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Where do tours depart from?",
+      "answer": "Tours depart from the Melbourne, Florida area on the Indian River Lagoon. Add the exact dock address in the JSON file once confirmed."
+    },
+    {
+      "question": "Will we definitely see dolphins?",
+      "answer": "Dolphins are wild animals, so sightings cannot be guaranteed, but the tour is designed around known local wildlife areas."
+    },
+    {
+      "question": "Can kids come?",
+      "answer": "Yes. This is designed as a family-friendly tour for all ages."
+    },
+    {
+      "question": "What should we bring?",
+      "answer": "Sunscreen, sunglasses, water, comfortable clothes, and a camera are recommended."
+    }
+  ]
+}
