@@ -1,1 +1,1 @@
-Dolfun Tours single-file website. Images and logo are embedded directly in index.html, so there are no broken asset paths when deployed. Upload index.html to Vercel or any static host.
+Deploy this folder or the index.html file. Images and CSS are embedded directly in index.html, so no assets folder is required.
